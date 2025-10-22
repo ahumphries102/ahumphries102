@@ -1,7 +1,4 @@
-- 🔭 I’m currently working on ... QuizApp (*title pending)
-- 🌱 I’m currently learning ... Nodejs, MongoDb, Mongoose and many other back end technologies
-- 👯 I’m looking to collaborate on ... Nothing currently
-- 🤔 I’m looking for help with ... Nothing currently
-- 💬 Ask me about ... Vuejs, Vuetify, Front End Development, some back end questions are ok
+- 🔭 I’m currently working on ... a card game (*title pending)
+- 💬 Ask me about ... VueJS, Vuetify, and full-stack applications
 - 📫 How to reach me: ... You can reach me at Ahumphries102@gmail.com 
-- ⚡ Fun fact: ... I'm also a graphic designer that specializes in vector illustrations and advertising.
+- ⚡ Fun fact: ... I'm also a graphic designer who specializes in vector illustrations and advertising.
