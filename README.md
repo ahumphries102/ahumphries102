@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on ... a card game (*title pending)
-- 💬 Ask me about ... VueJS, Vuetify, and full-stack applications
-- 📫 How to reach me: ... You can reach me at Ahumphries102@gmail.com 
+- 💬 Ask me about ... Front-End development, Vue, React, etc...
+- I specialize in Front-End, and I also work on full-stack applications.
+- 📫 How to reach me: ... You can reach me at ahumphries102@gmail.com 
 - ⚡ Fun fact: ... I'm also a graphic designer who specializes in vector illustrations and advertising.
